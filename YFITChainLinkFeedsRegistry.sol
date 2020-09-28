@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>YFITSwap/README.md at master · YFITSwap · GitHub</title>
+  <title>YFITSwap/YFITChainLinkFeedsRegistry.sol at master · YFITSwap · GitHub</title>
     <meta name="description" content="YFIT Swap Contract Source Code. Contribute to YFITSwap development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -45,7 +45,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="10DD:24E7:94F46A:CC767E:5F60B258" data-pjax-transient="true"/><meta name="html-safe-nonce" content="a316a484380fcc2ff3cbc1f6977a2f46d68748e4" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ZRklNb2JpL1lGSU1Td2FwIiwicmVxdWVzdF9pZCI6IjEwREQ6MjRFNzo5NEY0NkE6Q0M3NjdFOjVGNjBCMjU4IiwidmlzaXRvcl9pZCI6Ijg4Njk0NzU5NTAyNTE0OTAyMDYiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoZWFzdC0xIiwicmVnaW9uX3JlbmRlciI6ImFwLXNvdXRoZWFzdC0xIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="94aea2dea0b7cbd2020a68ca729a7ea11e979d252a581c8903d09693664af5cf" data-pjax-transient="true"/><meta name="cookie-consent-required" content="false" data-pjax-transient="true"/>
+  <meta name="request-id" content="10DD:24E7:94F119:CC73FB:5F60B254" data-pjax-transient="true"/><meta name="html-safe-nonce" content="a316a484380fcc2ff3cbc1f6977a2f46d68748e4" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ZRklNb2JpL1lGSU1Td2FwIiwicmVxdWVzdF9pZCI6IjEwREQ6MjRFNzo5NEYxMTk6Q0M3M0ZCOjVGNjBCMjU0IiwidmlzaXRvcl9pZCI6Ijg4Njk0NzU5NTAyNTE0OTAyMDYiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoZWFzdC0xIiwicmVnaW9uX3JlbmRlciI6ImFwLXNvdXRoZWFzdC0xIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="40ad3a22852a441d0ddc1e24a0cdaa3b6792d31a5fd9373aaa31145d706b7dcf" data-pjax-transient="true"/><meta name="cookie-consent-required" content="false" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:292184521" data-pjax-transient>
 
@@ -101,7 +101,7 @@
   <meta name="octolytics-dimension-user_id" content="70599710" /><meta name="octolytics-dimension-user_login" content="YFITobi" /><meta name="octolytics-dimension-repository_id" content="292184521" /><meta name="octolytics-dimension-repository_nwo" content="YFITSwap" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="292184521" /><meta name="octolytics-dimension-repository_network_root_nwo" content="YFITSwap" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/YFITSwap/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/YFITSwap/blob/master/YFITChainLinkFeedsRegistry.sol" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -148,7 +148,7 @@
         <div class="d-flex flex-items-center">
               <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
                 class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="523d40653e0bc66ed91e54b457da5fb59463f1b159b2edb1e996ffe8ae176e34"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/YFITChainLinkFeedsRegistry.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="820d73f70d2e99afd4b6952fa758004e01cf4cdbba18c71e1e8ececa8c151658"
                 data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
                 Sign&nbsp;up
               </a>
@@ -299,7 +299,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="tIhwPHVWhPk6Kki+FzCxDyP3qddUXwdzrLUr6YyYKOk1F+DqE5OTUVUN/61K+LVxIXoU43ndb8cWdM04eYyYMw==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="WDcV6M9S+LbwQev7D1Qq3WSpK6rL1Y5E2OYNRDWqRTXZqIU+qZfvHp9mXOhSnC6jZiSWnuZX5vBiJ+uVwL717w==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -421,15 +421,15 @@
 
           </div>
 
-        <a href="/login?return_to=%2FYFITobi%2FYFITSwap%2Fblob%2Fmaster%2FREADME.md"
+        <a href="/login?return_to=%2FYFITobi%2FYFITSwap%2Fblob%2Fmaster%2FYFITChainLinkFeedsRegistry.sol"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fde9bf334becde3e1ca621a818192c59aa7ead4155192ed95c1b940ee3924218"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/YFITChainLinkFeedsRegistry.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fec6e2860d90115d20b1889e98140d5230a73d90b5d05a51b64fa0b645e09b09"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
             <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=YFITobi%2FYFITSwap"
               class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fde9bf334becde3e1ca621a818192c59aa7ead4155192ed95c1b940ee3924218"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/YFITChainLinkFeedsRegistry.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fec6e2860d90115d20b1889e98140d5230a73d90b5d05a51b64fa0b645e09b09"
               data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
               Sign&nbsp;up
             </a>
@@ -512,7 +512,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-        <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a24f1d4bf095654d30bf83f15414bc1a407181d880c5a36cfcc30ace0fe6d9ae" href="/login?return_to=%2FYFITobi%2FYFITSwap">
+        <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/YFITChainLinkFeedsRegistry.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2ba4cc21bbad0fa7967bbaf5476ae672cc392a1f0e0598c715d82be6849ec503" href="/login?return_to=%2FYFITobi%2FYFITSwap">
     <svg height="16" class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"></path></svg>
     Watch
 </a>    <a class="social-count" href="/YFITSwap/watchers"
@@ -523,7 +523,7 @@
   </li>
 
   <li>
-          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:292184521,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="257f02ef60f79aeb16db0060481ccc344225f039e6efacb41482be50a11f6278" href="/login?return_to=%2FYFITobi%2FYFITSwap">
+          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:292184521,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/YFITChainLinkFeedsRegistry.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9cf86b0e7da3a337d0092f0c3f02a1cd83a86be6d247bf9d9d9c3752b6a9c31c" href="/login?return_to=%2FYFITobi%2FYFITSwap">
       <svg vertical_align="text_bottom" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
       Star
 </a>
@@ -535,7 +535,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:292184521,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="47b34bd0ebbacc5a2820930365e8b86702c3843bfa9efd31504b9fc6e68b54e0" href="/login?return_to=%2FYFITobi%2FYFITSwap">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:292184521,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/YFITChainLinkFeedsRegistry.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="440897d377e5c927e739ab9d3bf72bfc7be34819cb49186ea951a99fce7451a6" href="/login?return_to=%2FYFITobi%2FYFITSwap">
           <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
           Fork
 </a>
@@ -648,9 +648,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/YFITSwap/blob/fce57be262c45a3d60742b36dac21462c8739fd7/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/YFITSwap/blob/fce57be262c45a3d60742b36dac21462c8739fd7/YFITChainLinkFeedsRegistry.sol">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:694ec927800b820aa5e920ef67dc73113487e1ccbcee34de59f90c5a0cef6abc -->
+    <!-- blob contrib key: blob_contributors:v22:b0481fe2b12c253a6ab0d8050aadb715496d0adfc8f7f3dc7686984c820294eb -->
       <signup-prompt class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
     <div class="signup-prompt p-4 text-center mb-4 rounded-1">
       <div class="position-relative">
@@ -664,7 +664,7 @@
         </button>
         <h3 class="pt-2">Join GitHub today</h3>
         <p class="col-6 mx-auto">GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.</p>
-        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="234a66e15fa1b1bdc4a32a6d8d1087a31ac4f01e56956c2462334f2ea56d6619" href="/join?source=prompt-blob-show&amp;source_repo=YFITobi%2FYFITSwap">Sign up</a>
+        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/YFITChainLinkFeedsRegistry.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f3d74ce84de99bee09321f7c58d88e2a815fe869e51d69702e689fbd75172ac0" href="/join?source=prompt-blob-show&amp;source_repo=YFITobi%2FYFITSwap">Sign up</a>
       </div>
     </div>
   </signup-prompt>
@@ -682,7 +682,7 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/YFITSwap/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
+    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/YFITSwap/refs/master/YFITChainLinkFeedsRegistry.sol?source_action=show&amp;source_controller=blob" preload>
       <div class="SelectMenu-modal">
         <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
           <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
@@ -694,7 +694,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/YFITSwap"><span>YFITSwap</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/YFITSwap"><span>YFITSwap</span></a></span></span><span class="separator">/</span><strong class="final-path">YFITChainLinkFeedsRegistry.sol</strong>
       </h2>
       <a href="/YFITSwap/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -709,7 +709,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:292184521,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e9dbf906889aed8c78c695655d5b01570855001750740e73e43b7814758a54be" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/YFITSwap/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:292184521,&quot;originating_url&quot;:&quot;https://github.com/YFITSwap/blob/master/YFITChainLinkFeedsRegistry.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dabe75219b47991fb139a5b237f9db9eb81c7538b5d297c3727a1856fae9c22e" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/YFITSwap/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small text-gray" aria-hidden="true">T</span>
 </a>            </li>
@@ -723,7 +723,7 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="YFITChainLinkFeedsRegistry.sol" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
@@ -733,7 +733,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/YFITSwap/contributors/master/README.md" class="commit-loader">
+      <include-fragment src="/YFITSwap/contributors/master/YFITChainLinkFeedsRegistry.sol" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -756,16 +756,16 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      2 lines (2 sloc)
+      152 lines (130 sloc)
       <span class="file-info-divider"></span>
-    42 Bytes
+    6.8 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/YFITSwap/raw/master/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/YFITSwap/blame/master/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/YFITSwap/raw/master/YFITChainLinkFeedsRegistry.sol" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/YFITSwap/blame/master/YFITChainLinkFeedsRegistry.sol" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
@@ -777,11 +777,11 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <a href="/login?return_to=%2FYFITobi%2FYFITSwap%2Fblob%2Fmaster%2FREADME.md" class="btn-octicon disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2FYFITobi%2FYFITSwap%2Fblob%2Fmaster%2FYFITChainLinkFeedsRegistry.sol" class="btn-octicon disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg class="octicon octicon-pencil" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
           </a>
-          <a href="/login?return_to=%2FYFITobi%2FYFITSwap%2Fblob%2Fmaster%2FREADME.md" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2FYFITobi%2FYFITSwap%2Fblob%2Fmaster%2FYFITChainLinkFeedsRegistry.sol" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
           </a>
@@ -792,10 +792,664 @@
 
 
       
-  <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-yfiTswap" class="anchor" aria-hidden="true" href="#yfiTswap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>YFITSwap</h1>
-<p>YFIT Swap Contract Source Code</p>
-</article>
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-solidity  gist-border-0">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-k">pragma</span> solidity <span class="pl-k">^</span><span class="pl-c1">0</span>.<span class="pl-c1">5</span>.<span class="pl-c1">0</span>;</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-k">contract<span class="pl-en"> Context</span></span> {</td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">constructor</span> () <span class="pl-k">internal</span> { }</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class="pl-c">// solhint-disable-previous-line no-empty-blocks</span></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> _msgSender</span></span>() <span class="pl-k">internal</span> <span class="pl-k">view</span> <span class="pl-k">returns</span> (<span class="pl-c1">address payable</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-c1">msg</span>.<span class="pl-c1">sender</span>;</td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-k">contract<span class="pl-en"> Ownable</span> is <span class="pl-en">Context</span></span> {</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">address</span> <span class="pl-k">private</span> _owner;</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">constructor</span> () <span class="pl-k">internal</span> {</td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">        _owner <span class="pl-k">=</span> <span class="pl-c1">_msgSender</span>();</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> owner</span></span>() <span class="pl-k">public</span> <span class="pl-k">view</span> <span class="pl-k">returns</span> (<span class="pl-c1">address</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> _owner;</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">modifier<span class="pl-en"> onlyOwner</span></span>() {</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>(<span class="pl-c1">isOwner</span>(), <span class="pl-s">&quot;Ownable: caller is not the owner&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">        _;</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> isOwner</span></span>() <span class="pl-k">public</span> <span class="pl-k">view</span> <span class="pl-k">returns</span> (<span class="pl-c1">bool</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-c1">_msgSender</span>() <span class="pl-k">==</span> _owner;</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class="pl-k">library<span class="pl-en"> SafeMath</span></span> {</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> add</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">uint</span> c = a <span class="pl-k">+</span> b;</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>(c <span class="pl-k">&gt;=</span> a, <span class="pl-s">&quot;SafeMath: addition overflow&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> c;</td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> sub</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-c1">sub</span>(a, b, <span class="pl-s">&quot;SafeMath: subtraction overflow&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> sub</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>, <span class="pl-c1">string</span> <span class="pl-k">memory</span> <span class="pl-v">errorMessage</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>(b <span class="pl-k">&lt;=</span> a, errorMessage);</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">uint</span> c = a <span class="pl-k">-</span> b;</td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> c;</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> mul</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> (a <span class="pl-k">==</span> <span class="pl-c1">0</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">return</span> <span class="pl-c1">0</span>;</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">        }</td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">uint</span> c = a <span class="pl-k">*</span> b;</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>(c <span class="pl-k">/</span> a <span class="pl-k">==</span> b, <span class="pl-s">&quot;SafeMath: multiplication overflow&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> c;</td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> div</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-c1">div</span>(a, b, <span class="pl-s">&quot;SafeMath: division by zero&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> div</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>, <span class="pl-c1">string</span> <span class="pl-k">memory</span> <span class="pl-v">errorMessage</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">        <span class="pl-c">// Solidity only automatically asserts when dividing by 0</span></td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>(b <span class="pl-k">&gt;</span> <span class="pl-c1">0</span>, errorMessage);</td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">uint</span> c = a <span class="pl-k">/</span> b;</td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> c;</td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line"><span class="pl-k">interface<span class="pl-en"> Oracle</span></span> {</td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> latestAnswer</span></span>() <span class="pl-k">external</span> <span class="pl-k">view</span> <span class="pl-k">returns</span>(<span class="pl-c1">uint256</span>);</td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class="pl-k">contract<span class="pl-en"> ChainLinkFeedsRegistry</span> is <span class="pl-en">Ownable</span></span> {</td>
+      </tr>
+      <tr>
+        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">using<span class="pl-en"> SafeMath</span></span> <span class="pl-k">for</span> uint;</td>
+      </tr>
+      <tr>
+        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">mapping</span>(<span class="pl-c1">address</span> =&gt; <span class="pl-c1">address</span>)<span class="pl-k"> public</span> assetsUSD;</td>
+      </tr>
+      <tr>
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">mapping</span>(<span class="pl-c1">address</span> =&gt; <span class="pl-c1">address</span>)<span class="pl-k"> public</span> assetsETH;</td>
+      </tr>
+      <tr>
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line">    address <span class="pl-k">constant</span> <span class="pl-k">public</span> weth <span class="pl-k">=</span> <span class="pl-c1">0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2</span>;</td>
+      </tr>
+      <tr>
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">constructor</span> () <span class="pl-k">public</span> {</td>
+      </tr>
+      <tr>
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line">        assetsUSD[weth] <span class="pl-k">=</span> <span class="pl-c1">0xF79D6aFBb6dA890132F9D7c355e3015f15F3406F</span>; <span class="pl-c">//weth</span></td>
+      </tr>
+      <tr>
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599</span>] <span class="pl-k">=</span> <span class="pl-c1">0xF5fff180082d6017036B771bA883025c654BC935</span>; <span class="pl-c">//wBTC</span></td>
+      </tr>
+      <tr>
+        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td id="LC82" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D</span>] <span class="pl-k">=</span> <span class="pl-c1">0xF5fff180082d6017036B771bA883025c654BC935</span>; <span class="pl-c">//renBTC</span></td>
+      </tr>
+      <tr>
+        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td id="LC83" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0x6B175474E89094C44Da98b954EedeAC495271d0F</span>] <span class="pl-k">=</span> <span class="pl-c1">0xa7D38FBD325a6467894A13EeFD977aFE558bC1f0</span>; <span class="pl-c">//DAI</span></td>
+      </tr>
+      <tr>
+        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td id="LC84" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0xF48e200EAF9906362BB1442fca31e0835773b8B4</span>] <span class="pl-k">=</span> <span class="pl-c1">0x05Cf62c4bA0ccEA3Da680f9A8744Ac51116D6231</span>; <span class="pl-c">//sAUD</span></td>
+      </tr>
+      <tr>
+        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0xD71eCFF9342A5Ced620049e616c5035F1dB98620</span>] <span class="pl-k">=</span> <span class="pl-c1">0x25Fa978ea1a7dc9bDc33a2959B9053EaE57169B5</span>; <span class="pl-c">//sEUR</span></td>
+      </tr>
+      <tr>
+        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0x0F83287FF768D1c1e17a42F44d644D7F22e8ee1d</span>] <span class="pl-k">=</span> <span class="pl-c1">0x02D5c618DBC591544b19d0bf13543c0728A3c4Ec</span>; <span class="pl-c">//sCHF</span></td>
+      </tr>
+      <tr>
+        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0x97fe22E7341a0Cd8Db6F6C021A24Dc8f4DAD855F</span>] <span class="pl-k">=</span> <span class="pl-c1">0x151445852B0cfDf6A4CC81440F2AF99176e8AD08</span>; <span class="pl-c">//sGBP</span></td>
+      </tr>
+      <tr>
+        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0xF6b1C627e95BFc3c1b4c9B825a032Ff0fBf3e07d</span>] <span class="pl-k">=</span> <span class="pl-c1">0xe1407BfAa6B5965BAd1C9f38316A3b655A09d8A6</span>; <span class="pl-c">//sJPY</span></td>
+      </tr>
+      <tr>
+        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0x6A22e5e94388464181578Aa7A6B869e00fE27846</span>] <span class="pl-k">=</span> <span class="pl-c1">0x8946A183BFaFA95BEcf57c5e08fE5B7654d2807B</span>; <span class="pl-c">//sXAG</span></td>
+      </tr>
+      <tr>
+        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0x261EfCdD24CeA98652B9700800a13DfBca4103fF</span>] <span class="pl-k">=</span> <span class="pl-c1">0xafcE0c7b7fE3425aDb3871eAe5c0EC6d93E01935</span>; <span class="pl-c">//sXAU</span></td>
+      </tr>
+      <tr>
+        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0x514910771AF9Ca656af840dff83E8264EcF986CA</span>] <span class="pl-k">=</span> <span class="pl-c1">0x32dbd3214aC75223e27e575C53944307914F7a90</span>; <span class="pl-c">//LINK</span></td>
+      </tr>
+      <tr>
+        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">        assetsUSD[<span class="pl-c1">0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C</span>] <span class="pl-k">=</span> <span class="pl-c1">0x560B06e8897A0E52DbD5723271886BbCC5C1f52a</span>; <span class="pl-c">//BNT</span></td>
+      </tr>
+      <tr>
+        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
+        <td id="LC93" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
+        <td id="LC94" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD</span>] <span class="pl-k">=</span> <span class="pl-c1">0x8770Afe90c52Fd117f29192866DE705F63e59407</span>; <span class="pl-c">//LRC</span></td>
+      </tr>
+      <tr>
+        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
+        <td id="LC95" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x80fB784B7eD66730e8b1DBd9820aFD29931aab03</span>] <span class="pl-k">=</span> <span class="pl-c1">0x1EeaF25f2ECbcAf204ECADc8Db7B0db9DA845327</span>; <span class="pl-c">//LEND</span></td>
+      </tr>
+      <tr>
+        <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
+        <td id="LC96" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599</span>] <span class="pl-k">=</span> <span class="pl-c1">0x0133Aa47B6197D0BA090Bf2CD96626Eb71fFd13c</span>; <span class="pl-c">//wBTC</span></td>
+      </tr>
+      <tr>
+        <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
+        <td id="LC97" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D</span>] <span class="pl-k">=</span> <span class="pl-c1">0x0133Aa47B6197D0BA090Bf2CD96626Eb71fFd13c</span>; <span class="pl-c">//renBTC</span></td>
+      </tr>
+      <tr>
+        <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
+        <td id="LC98" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2</span>] <span class="pl-k">=</span> <span class="pl-c1">0xDa3d675d50fF6C555973C4f0424964e1F6A4e7D3</span>; <span class="pl-c">//MKR</span></td>
+      </tr>
+      <tr>
+        <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
+        <td id="LC99" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x0F5D2fB29fb7d3CFeE444a200298f468908cC942</span>] <span class="pl-k">=</span> <span class="pl-c1">0xc89c4ed8f52Bb17314022f6c0dCB26210C905C97</span>; <span class="pl-c">//MANA</span></td>
+      </tr>
+      <tr>
+        <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
+        <td id="LC100" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0xdd974D5C2e2928deA5F71b9825b8b646686BD200</span>] <span class="pl-k">=</span> <span class="pl-c1">0xd0e785973390fF8E77a83961efDb4F271E6B8152</span>; <span class="pl-c">//KNC</span></td>
+      </tr>
+      <tr>
+        <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
+        <td id="LC101" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x514910771AF9Ca656af840dff83E8264EcF986CA</span>] <span class="pl-k">=</span> <span class="pl-c1">0xeCfA53A8bdA4F0c4dd39c55CC8deF3757aCFDD07</span>; <span class="pl-c">//LINK</span></td>
+      </tr>
+      <tr>
+        <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
+        <td id="LC102" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48</span>] <span class="pl-k">=</span> <span class="pl-c1">0xdE54467873c3BCAA76421061036053e371721708</span>; <span class="pl-c">//USDC</span></td>
+      </tr>
+      <tr>
+        <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
+        <td id="LC103" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x1985365e9f78359a9B6AD760e32412f4a445E862</span>] <span class="pl-k">=</span> <span class="pl-c1">0xb8b513d9cf440C1b6f5C7142120d611C94fC220c</span>; <span class="pl-c">//REP</span></td>
+      </tr>
+      <tr>
+        <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
+        <td id="LC104" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0xE41d2489571d322189246DaFA5ebDe1F4699F498</span>] <span class="pl-k">=</span> <span class="pl-c1">0xA0F9D94f060836756FFC84Db4C78d097cA8C23E8</span>; <span class="pl-c">//ZRX</span></td>
+      </tr>
+      <tr>
+        <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
+        <td id="LC105" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x0D8775F648430679A709E98d2b0Cb6250d2887EF</span>] <span class="pl-k">=</span> <span class="pl-c1">0x9b4e2579895efa2b4765063310Dc4109a7641129</span>; <span class="pl-c">//BAT</span></td>
+      </tr>
+      <tr>
+        <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
+        <td id="LC106" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x6B175474E89094C44Da98b954EedeAC495271d0F</span>] <span class="pl-k">=</span> <span class="pl-c1">0x037E8F2125bF532F3e228991e051c8A7253B642c</span>; <span class="pl-c">//DAI</span></td>
+      </tr>
+      <tr>
+        <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
+        <td id="LC107" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x0000000000085d4780B73119b644AE5ecd22b376</span>] <span class="pl-k">=</span> <span class="pl-c1">0x73ead35fd6A572EF763B13Be65a9db96f7643577</span>; <span class="pl-c">//TUSD</span></td>
+      </tr>
+      <tr>
+        <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
+        <td id="LC108" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0xdAC17F958D2ee523a2206206994597C13D831ec7</span>] <span class="pl-k">=</span> <span class="pl-c1">0xa874fe207DF445ff19E7482C746C4D3fD0CB9AcE</span>; <span class="pl-c">//USDT</span></td>
+      </tr>
+      <tr>
+        <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
+        <td id="LC109" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x4Fabb145d64652a948d72533023f6E7A623C7C53</span>] <span class="pl-k">=</span> <span class="pl-c1">0x5d4BB541EED49D0290730b4aB332aA46bd27d888</span>; <span class="pl-c">//BUSD</span></td>
+      </tr>
+      <tr>
+        <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
+        <td id="LC110" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x57Ab1ec28D129707052df4dF418D58a2D46d5f51</span>] <span class="pl-k">=</span> <span class="pl-c1">0x6d626Ff97f0E89F6f983dE425dc5B24A18DE26Ea</span>; <span class="pl-c">//SUSD</span></td>
+      </tr>
+      <tr>
+        <td id="L111" class="blob-num js-line-number" data-line-number="111"></td>
+        <td id="LC111" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F</span>] <span class="pl-k">=</span> <span class="pl-c1">0xE23d1142dE4E83C08bb048bcab54d50907390828</span>; <span class="pl-c">//SNX</span></td>
+      </tr>
+      <tr>
+        <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
+        <td id="LC112" class="blob-code blob-code-inner js-file-line">        assetsETH[<span class="pl-c1">0x408e41876cCCDC0F92210600ef50372656052a38</span>] <span class="pl-k">=</span> <span class="pl-c1">0xB7B1C8F4095D819BDAE25e7a63393CDF21fd02Ea</span>; <span class="pl-c">//REN</span></td>
+      </tr>
+      <tr>
+        <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
+        <td id="LC113" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L114" class="blob-num js-line-number" data-line-number="114"></td>
+        <td id="LC114" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
+        <td id="LC115" class="blob-code blob-code-inner js-file-line">    <span class="pl-c">// Returns 1e8</span></td>
+      </tr>
+      <tr>
+        <td id="L116" class="blob-num js-line-number" data-line-number="116"></td>
+        <td id="LC116" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> getPriceUSD</span></span>(<span class="pl-c1">address</span> <span class="pl-v">_asset</span>) <span class="pl-k">external</span> <span class="pl-k">view</span> <span class="pl-k">returns</span>(<span class="pl-c1">uint256</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
+        <td id="LC117" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">uint256</span> _price = <span class="pl-c1">0</span>;</td>
+      </tr>
+      <tr>
+        <td id="L118" class="blob-num js-line-number" data-line-number="118"></td>
+        <td id="LC118" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> (assetsUSD[_asset] <span class="pl-k">!=</span> <span class="pl-c1">address</span>(<span class="pl-c1">0</span>)) {</td>
+      </tr>
+      <tr>
+        <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
+        <td id="LC119" class="blob-code blob-code-inner js-file-line">            _price <span class="pl-k">=</span> <span class="pl-c1">Oracle</span>(assetsUSD[_asset]).<span class="pl-c1">latestAnswer</span>();</td>
+      </tr>
+      <tr>
+        <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
+        <td id="LC120" class="blob-code blob-code-inner js-file-line">        } <span class="pl-k">else</span> <span class="pl-k">if</span> (assetsETH[_asset] <span class="pl-k">!=</span> <span class="pl-c1">address</span>(<span class="pl-c1">0</span>)) {</td>
+      </tr>
+      <tr>
+        <td id="L121" class="blob-num js-line-number" data-line-number="121"></td>
+        <td id="LC121" class="blob-code blob-code-inner js-file-line">            _price <span class="pl-k">=</span> <span class="pl-c1">Oracle</span>(assetsETH[_asset]).<span class="pl-c1">latestAnswer</span>();</td>
+      </tr>
+      <tr>
+        <td id="L122" class="blob-num js-line-number" data-line-number="122"></td>
+        <td id="LC122" class="blob-code blob-code-inner js-file-line">            _price <span class="pl-k">=</span> _price.<span class="pl-c1">mul</span>(<span class="pl-c1">Oracle</span>(assetsUSD[weth]).<span class="pl-c1">latestAnswer</span>()).<span class="pl-c1">div</span>(<span class="pl-c1">1e18</span>);</td>
+      </tr>
+      <tr>
+        <td id="L123" class="blob-num js-line-number" data-line-number="123"></td>
+        <td id="LC123" class="blob-code blob-code-inner js-file-line">        }</td>
+      </tr>
+      <tr>
+        <td id="L124" class="blob-num js-line-number" data-line-number="124"></td>
+        <td id="LC124" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> _price;</td>
+      </tr>
+      <tr>
+        <td id="L125" class="blob-num js-line-number" data-line-number="125"></td>
+        <td id="LC125" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L126" class="blob-num js-line-number" data-line-number="126"></td>
+        <td id="LC126" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L127" class="blob-num js-line-number" data-line-number="127"></td>
+        <td id="LC127" class="blob-code blob-code-inner js-file-line">    <span class="pl-c">// Returns 1e18</span></td>
+      </tr>
+      <tr>
+        <td id="L128" class="blob-num js-line-number" data-line-number="128"></td>
+        <td id="LC128" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> getPriceETH</span></span>(<span class="pl-c1">address</span> <span class="pl-v">_asset</span>) <span class="pl-k">external</span> <span class="pl-k">view</span> <span class="pl-k">returns</span>(<span class="pl-c1">uint256</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L129" class="blob-num js-line-number" data-line-number="129"></td>
+        <td id="LC129" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">uint256</span> _price = <span class="pl-c1">0</span>;</td>
+      </tr>
+      <tr>
+        <td id="L130" class="blob-num js-line-number" data-line-number="130"></td>
+        <td id="LC130" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> (assetsETH[_asset] <span class="pl-k">!=</span> <span class="pl-c1">address</span>(<span class="pl-c1">0</span>)) {</td>
+      </tr>
+      <tr>
+        <td id="L131" class="blob-num js-line-number" data-line-number="131"></td>
+        <td id="LC131" class="blob-code blob-code-inner js-file-line">            _price <span class="pl-k">=</span> <span class="pl-c1">Oracle</span>(assetsETH[_asset]).<span class="pl-c1">latestAnswer</span>();</td>
+      </tr>
+      <tr>
+        <td id="L132" class="blob-num js-line-number" data-line-number="132"></td>
+        <td id="LC132" class="blob-code blob-code-inner js-file-line">        }</td>
+      </tr>
+      <tr>
+        <td id="L133" class="blob-num js-line-number" data-line-number="133"></td>
+        <td id="LC133" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> _price;</td>
+      </tr>
+      <tr>
+        <td id="L134" class="blob-num js-line-number" data-line-number="134"></td>
+        <td id="LC134" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L135" class="blob-num js-line-number" data-line-number="135"></td>
+        <td id="LC135" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L136" class="blob-num js-line-number" data-line-number="136"></td>
+        <td id="LC136" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> addFeedETH</span></span>(<span class="pl-c1">address</span> <span class="pl-v">_asset</span>, <span class="pl-c1">address</span> <span class="pl-v">_feed</span>) <span class="pl-k">external</span> onlyOwner {</td>
+      </tr>
+      <tr>
+        <td id="L137" class="blob-num js-line-number" data-line-number="137"></td>
+        <td id="LC137" class="blob-code blob-code-inner js-file-line">        assetsETH[_asset] <span class="pl-k">=</span> _feed;</td>
+      </tr>
+      <tr>
+        <td id="L138" class="blob-num js-line-number" data-line-number="138"></td>
+        <td id="LC138" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L139" class="blob-num js-line-number" data-line-number="139"></td>
+        <td id="LC139" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L140" class="blob-num js-line-number" data-line-number="140"></td>
+        <td id="LC140" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> addFeedUSD</span></span>(<span class="pl-c1">address</span> <span class="pl-v">_asset</span>, <span class="pl-c1">address</span> <span class="pl-v">_feed</span>) <span class="pl-k">external</span> onlyOwner {</td>
+      </tr>
+      <tr>
+        <td id="L141" class="blob-num js-line-number" data-line-number="141"></td>
+        <td id="LC141" class="blob-code blob-code-inner js-file-line">        assetsUSD[_asset] <span class="pl-k">=</span> _feed;</td>
+      </tr>
+      <tr>
+        <td id="L142" class="blob-num js-line-number" data-line-number="142"></td>
+        <td id="LC142" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L143" class="blob-num js-line-number" data-line-number="143"></td>
+        <td id="LC143" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L144" class="blob-num js-line-number" data-line-number="144"></td>
+        <td id="LC144" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> removeFeedETH</span></span>(<span class="pl-c1">address</span> <span class="pl-v">_asset</span>) <span class="pl-k">external</span> onlyOwner {</td>
+      </tr>
+      <tr>
+        <td id="L145" class="blob-num js-line-number" data-line-number="145"></td>
+        <td id="LC145" class="blob-code blob-code-inner js-file-line">        assetsETH[_asset] <span class="pl-k">=</span> <span class="pl-c1">address</span>(<span class="pl-c1">0</span>);</td>
+      </tr>
+      <tr>
+        <td id="L146" class="blob-num js-line-number" data-line-number="146"></td>
+        <td id="LC146" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L147" class="blob-num js-line-number" data-line-number="147"></td>
+        <td id="LC147" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L148" class="blob-num js-line-number" data-line-number="148"></td>
+        <td id="LC148" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> removeFeedUSD</span></span>(<span class="pl-c1">address</span> <span class="pl-v">_asset</span>) <span class="pl-k">external</span> onlyOwner {</td>
+      </tr>
+      <tr>
+        <td id="L149" class="blob-num js-line-number" data-line-number="149"></td>
+        <td id="LC149" class="blob-code blob-code-inner js-file-line">        assetsUSD[_asset] <span class="pl-k">=</span> <span class="pl-c1">address</span>(<span class="pl-c1">0</span>);</td>
+      </tr>
+      <tr>
+        <td id="L150" class="blob-num js-line-number" data-line-number="150"></td>
+        <td id="LC150" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L151" class="blob-num js-line-number" data-line-number="151"></td>
+        <td id="LC151" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L152" class="blob-num js-line-number" data-line-number="152"></td>
+        <td id="LC152" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/YFITSwap/blame/fce57be262c45a3d60742b36dac21462c8739fd7/YFITChainLinkFeedsRegistry.sol">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/YFITSwap/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
